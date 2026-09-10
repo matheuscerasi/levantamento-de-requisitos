@@ -37,7 +37,7 @@
 * Análise da concorrência: Monitora os preços praticados por outros concorrentes no mercado.  
 * Percepção de valor: Avalia o quanto o cliente está disposto a pagar com base na qualidade e no benefício entregue.
 
-- **Fluxogramas:**
+- **Fluxograma:** (Anexado em imagem no Github)
 
 ---
 
@@ -140,6 +140,8 @@ O sistema deve calcular o que é favorável em relação aos gastos e lucros que
 ## 7\. Diagrama Entidade-Relacionamento (DER)
 
 *(vale 20% — é o item de maior peso da entrega)*
+
+-**DER:** (Anexado em imagem no Github)
 
 ---
 

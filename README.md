@@ -25,6 +25,8 @@
 **Link do site:** [https://www.imperiolestepizzaria.com.br/](https://www.imperiolestepizzaria.com.br/)  
 **Instagram:** [https://www.instagram.com/pizzariaimperioleste/](https://www.instagram.com/pizzariaimperioleste/)
 
+**Imagens do Local:** (Anexado em imagem no Github)
+
 ## 
 
 ## 2\. Processos de Negócio

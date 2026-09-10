@@ -108,8 +108,8 @@ O sistema deve calcular o que é favorável em relação aos gastos e lucros que
 | custo\_unitario | Custo de cada unidade do ingrediente. | Obrigatório é maior que zero. |
 | fornecedor | Fornecedor do ingrediente. | Opcional. |
 | data\_atualizacao | Data da última atualização do custo. | Obrigatório. |
-| 4\. Entidade: Concorrente |  |  |
-| Atributo | Descrição | Regra de negócio associada |
+| **4\. Entidade: Concorrente** |  |  |
+| **Atributo** | **Descrição** | **Regra de negócio associada** |
 | id\_concorrente (PK) | Identificador único do concorrente. | Obrigatório e único. |
 | nome | Nome da pizzaria concorrente. | Obrigatório. |
 | pizza\_referencia | Pizza utilizada para comparação. | Obrigatório. |
